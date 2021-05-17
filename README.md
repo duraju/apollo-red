@@ -38,7 +38,6 @@ The success of the project will be measured by
 ## Algorithms used
 - Machine learning algorithm to detect the face
 - Algorithm to extract heart rate frequency (fourier?)
-- $ s(t) = \frac{1}{mn}\sum_{i = 0}^{m-1}\sum_{j = 0}^{n-1}s(i,j,t)$
 
 # Equipment
 The equipment used for the project includes
