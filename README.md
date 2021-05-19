@@ -24,7 +24,10 @@ The success of the project will be measured by
 5. Ability to send test subject measurements to dashboard for online viewing
 
 ## System Overview
-- block diagram, flow charts...
+- System Block Diargam
+![](images/Screen%20Shot%202021-05-18%20at%201.40.25%20am.png)
+- Hardware Architecture Block Diagram
+![](images/Screen%20Shot%202021-05-18%20at%2012.59.01%20am.png)
 
 ## Sensor integration
 - The only sensor required for the project is the FLiR sensor onboard the FLIR Radiometric Lepton Dev Kit V2. 
@@ -37,8 +40,10 @@ The success of the project will be measured by
 
 ## Algorithms used
 - Machine learning algorithm to detect the face
-- Algorithm to extract heart rate frequency (fourier?)
+- Algorithm to extract heart rate frequency
 ![](images/HR.png)
+- Algorithm to extract breath rate 
+![](images/breath.png)
 
 # Equipment
 The equipment used for the project includes
