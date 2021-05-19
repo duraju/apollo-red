@@ -38,7 +38,7 @@ The success of the project will be measured by
 ## Algorithms used
 - Machine learning algorithm to detect the face
 - Algorithm to extract heart rate frequency (fourier?)
-![Alt text](images/Screen Shot 2021-05-18 at 1.40.25 am.png?raw=true "Title")
+![](images/HR.png)
 
 # Equipment
 The equipment used for the project includes
