@@ -5,11 +5,14 @@ This project involves using an FLiR sensor to measure the heart rate, breath rat
 The short title of this project is Apollo-Red, being inspired by the Greek god of Medicine (Apollo) and colour of the heart (red).
 
 # Team Member List and Roles
-Project team members: Damien Raju, Pacifique Rukiza, Jesse Ruffini, Jarrod Bennett. A team photo can be found under misc/photos // TODO
+Project team members: Damien Raju, Pacifique Rukiza, Jesse Ruffini, Jarrod Bennett.
+![](images/Cabbage-merchant-in-Avatar-The-Last-Airbender.png)
 
-// TODO: Team member roles
-Table:
 Team member role...
+* Damien Raju : Software flowcharts. ML algorithms, real time GUI display
+* Pacifique Rukiza : Hardware Architecture block diagram (Pin connections between argon and sensor), Full system block diagram
+* Jesse Ruffini : Algorithm schemes, Data collection searching
+* Jarrod Bennett : Wireless Network Comms, BT connection between argon and base, Messaging protocol
 
 # Project Overview
 ## Project Description
@@ -24,10 +27,14 @@ The success of the project will be measured by
 5. Ability to send test subject measurements to dashboard for online viewing
 
 ## System Overview
-- System Block Diargam
+### System Block Diargam
 ![](images/Screen%20Shot%202021-05-18%20at%201.40.25%20am.png)
-- Hardware Architecture Block Diagram
+### Hardware Architecture Block Diagram
 ![](images/Screen%20Shot%202021-05-18%20at%2012.59.01%20am.png)
+### Equipment 
+- Fir Sensor 
+- Nordic Dongle
+- Particle Argon
 
 ## Sensor integration
 - The only sensor required for the project is the FLiR sensor onboard the FLIR Radiometric Lepton Dev Kit V2. 
