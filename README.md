@@ -6,7 +6,6 @@ The short title of this project is Apollo-Red, being inspired by the Greek god o
 
 # Team Member List and Roles
 Project team members: Damien Raju, Pacifique Rukiza, Jesse Ruffini, Jarrod Bennett.
-![](images/Cabbage-merchant-in-Avatar-The-Last-Airbender.png)
 
 Team member role...
 * Damien Raju : Software flowcharts. ML algorithms, real time GUI display
